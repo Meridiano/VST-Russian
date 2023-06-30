@@ -1,5 +1,5 @@
 # VST-Russian
-Русский перевод **Vicn Skyrim Trilogy** для TES Skyrim, а также пользовательские словари.
+Русский перевод **Vicn Skyrim Trilogy** для TES Skyrim, а также ссылки на пользовательские словари.
 
 + [Материалы](00-Materials/Оглавление.md)
 
