@@ -174,7 +174,7 @@
         <mxCell id="95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;" parent="1" source="71" target="75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="71" value="Ответьте ему&lt;br&gt;&quot;Продолжай...&quot;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="71" value="Ответьте ему&lt;br&gt;&quot;Но все же...&quot;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="648" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;" parent="1" source="72" target="76" edge="1">
